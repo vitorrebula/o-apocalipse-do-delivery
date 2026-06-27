@@ -1,9 +1,11 @@
 # O Apocalipse do Delivery
 
 Intrgrantes
-* Aluno 1
-* Aluno 2
+* Thales Mattos
+* Vitor Rebula
 
+Link para o vídeo:
+https://drive.google.com/drive/folders/1AUq6Y5xWDjzUDxQcXTtneT46k_xHIWGG?usp=drive_link
 
 Como as Fases se Conectam a este Código
 
