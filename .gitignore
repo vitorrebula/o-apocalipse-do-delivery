@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Relatórios e cobertura gerados
+coverage/
+reports/
+.stryker-tmp/
+
+# Saídas dos testes de carga (geradas em cada execução)
+load-tests/logs/
+*.log
+
+# Cucumber
+cucumber-report.html
+
+# Sistema
+.DS_Store
+*.pid
